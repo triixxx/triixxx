@@ -1,4 +1,4 @@
-- Hi, I’m Beatriz Rijo
+- Hi, I’m Beatriz Rijo.
 - I’m interested in gaming, music, reading, baking, drawing and watching thai dramas.
 - I’m currently learning TIC and programming in general.
 - I’m looking to collaborate on personal projects and game development.
